@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analysis (python for data analyst 
 - Java,..)
 - 
-- 💞️ I’m looking to collaborate on python, matplotlib, seaborn...
+- 💞️ I’m looking to collaborate on data analytics project (python, matplotlib, seaborn...)
 - 📫 How to reach me : egtamdjo01@monccnb.ca
 - 😄 Pronouns: Guy Patrice
 - ⚡ Fun fact: ...
